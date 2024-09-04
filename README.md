@@ -27,6 +27,7 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
 
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/Criando_Projeto.png">
 
+### Criando Data Set (Conjunto De Dados)
 
 
 
