@@ -7,4 +7,6 @@ https://www.youtube.com/watch?v=tsJrsgSIoPo
 
 ### Conhecendo a estrutura
 
+- Acessando o bigquery
+
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/01_Acesso_Big_Query.jpg">
