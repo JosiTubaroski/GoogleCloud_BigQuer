@@ -20,3 +20,7 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
  - Simplificação da Análise de Dados: Centraliza os dados de diferentes fontes, facilitando a análise e geração de insights.
 
  Portanto, o BigQuery é uma solução poderosa e moderna de data warehouse que ajuda empresas e profissionais a armazenar, gerenciar e analisar grandes volumes de dados de maneira eficiente e escalável.
+
+### Criando um novo projeto
+
+
