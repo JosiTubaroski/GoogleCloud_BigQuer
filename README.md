@@ -43,6 +43,11 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
 
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/08_Selecionar_Arquivo_Criacao.jpg">
 
+- Primeira Consulta (Select *)
+
+<img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/09_Primeiro_Select.jpg">
+
+
 
 
 
