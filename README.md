@@ -49,6 +49,10 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
 
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/10_Consulta.png">
 
+<img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/11_Primeira_Exec_Consulta.png">
+
+
+
 
 
 
