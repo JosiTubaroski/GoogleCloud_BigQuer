@@ -51,6 +51,13 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
 
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/11_Primeira_Exec_Consulta.png">
 
+- Selecionar Dados Distintos (Select Distinct)
+
+  Quero saber em quantos estados diferentes eu tenho clientes.
+
+<img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/12_Select_Distinct.png">
+  
+
 
 
 
