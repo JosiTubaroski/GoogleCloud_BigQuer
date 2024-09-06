@@ -79,7 +79,11 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
 
 ### Funções de Restrição
 
-+
+- Funções de Restrição (Where, IN, Not IN)
+
+<img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/19_Utilizando_Where.png">
+
+
 
 
 
