@@ -56,6 +56,11 @@ Todos os dados da empresa Finanças, RH, Vendas podem ser passados para o BigQue
   Quero saber em quantos estados diferentes eu tenho clientes.
 
 <img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/12_Select_Distinct.png">
+
+- Alterando Nomes de Colunas e Salvando como Tabela
+
+<img src="https://github.com/JosiTubaroski/GoogleCloud_BigQuer/blob/main/img/13_Alterar_Nomes_Colunas.png">
+
   
 
 
